@@ -12,18 +12,18 @@ You need to have Node.js and npm installed on your system to run this project. I
 
 # Installation
 Clone this repository to your local machine:
-bash
-Copy code
-git clone git@github.com:AryanT10/youtubeClone_React.git
+`using:` git clone git@github.com:AryanT10/youtubeClone_React.git
+
 Navigate into the main directory and install the required dependencies:
-bash
-Copy code
-cd youtube-clone
-npm install
+
+`cd youtube-clone`
+
+`npm install`
+
 Run the application:
-sql
-Copy code
-npm start
+
+`npm start`
+
 The application will start running at: http://localhost:3000
 
 •Built With
@@ -48,12 +48,21 @@ Search Page: Allows users to search for videos and channels and displays the sea
 The project includes the following React components:
 
 `Navbar`: Displays the navigation bar.
+
 `Feed`: Handles and displays a feed of videos and channels.
+
 `ChannelDetail`: Renders detailed information about a specific channel.
+
 `SearchFeed`: Handles the functionality related to searching for videos or channels.
+
 `VideoDetail`: Manages and displays detailed information about a specific video.
+
 `SearchBar`: A search bar component for users to search for videos or channels.
+
 `Sidebar`: A sidebar that displays different categories of videos.
+
 `Videos`: Displays a list of videos.
+
 `VideoCard`: Displays a single video card with video thumbnail and information.
+
 `ChannelCard`: Displays a single channel card with channel information.
