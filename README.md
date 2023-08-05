@@ -12,6 +12,7 @@ You need to have Node.js and npm installed on your system to run this project. I
 
 # Installation
 Clone this repository to your local machine:
+
 `using:` git clone git@github.com:AryanT10/youtubeClone_React.git
 
 Navigate into the main directory and install the required dependencies:
