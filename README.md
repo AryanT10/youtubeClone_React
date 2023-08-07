@@ -52,11 +52,11 @@ The project includes the following React components:
 
 `Feed`: Handles and displays a feed of videos and channels.
 
-`ChannelDetail`: Renders detailed information about a specific channel.
+`ChannelDetails`: Renders detailed information about a specific channel.
 
 `SearchFeed`: Handles the functionality related to searching for videos or channels.
 
-`VideoDetail`: Manages and displays detailed information about a specific video.
+`VideoDetails`: Manages and displays detailed information about a specific video.
 
 `SearchBar`: A search bar component for users to search for videos or channels.
 
