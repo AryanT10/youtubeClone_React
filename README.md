@@ -1,6 +1,16 @@
 # YouTube Clone
 This project is a simple YouTube clone built with React, utilizing the React Router for routing and Material UI for component styling.
 
+# Preview
+
+- run `npm run build`
+
+- deployed using `@netlifyapp
+
+`url:` https://64d6b150aee173228c8eff59--melodious-lolly-00dd58.netlify.app
+
+- you can check it out , how it looks like 
+
 # Project Description
 This clone app allows users to view different categories of videos and channels just like on the original YouTube platform. The clone includes a Feed page, a detailed Video page, a detailed Channel page and a Search page.
 
