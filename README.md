@@ -56,7 +56,7 @@ Channel Detail Page: Showcases detailed information about a specific channel, in
 Search Page: Allows users to search for videos and channels and displays the search results.
 
 # Components
-The project includes the following React components:
+<b>The project includes the following React components:</b>
 
 `Navbar`: Displays the navigation bar.
 
