@@ -7,7 +7,7 @@ This project is a simple YouTube clone built with React, utilizing the React Rou
 
 - deployed using `@netlifyapp
 
--`url:` https://64d6b150aee173228c8eff59--melodious-lolly-00dd58.netlify.app
+- `url:` https://64d6b150aee173228c8eff59--melodious-lolly-00dd58.netlify.app
 
 - You can check it out , how it looks like like .. `UP AND RUNNING`
 
